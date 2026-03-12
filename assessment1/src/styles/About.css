@@ -1,0 +1,10 @@
+#about {
+  background-color: #f8f9fa;
+}
+
+#about p {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
